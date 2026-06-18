@@ -1,6 +1,6 @@
 **SynditAudit: Automated Quality Assurance and Statistical Alignment Framework for Synthetic Datasets**
 
-* **Role:** Lead Developer & Architect
+* **Role:** Student Developer (Academic Project)
 * **Tech Stack:** Python, Pandas, NumPy, SciPy, Scikit-Learn, SDV, Streamlit
 
 ### Project Overview
